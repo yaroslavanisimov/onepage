@@ -26,7 +26,7 @@ export const Discover = () => (
       </section>
     </div>
     <div className="col">
-      <img src="/assets/img/women.png" alt="" />
+      <img src="./assets/img/women.png" alt="" />
     </div>
   </div>
 );

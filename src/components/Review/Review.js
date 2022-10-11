@@ -11,7 +11,7 @@ export const Review = () => (
       </div>
       <div className="review__col">
         <div className="quote">
-          <img src="/assets/icons/quote_2.png" alt="" />
+          <img src="./assets/icons/quote_2.png" alt="" />
         </div>
         <p className="review__description">
           Aliquam purus sit amet luctus venenatis lectus magna. Faucibus purus{" "}
@@ -30,7 +30,7 @@ export const Review = () => (
 
         <p className="review__author">Faucibus Vitae, Office Assistant </p>
         <div className="review__log">
-          <img src="/assets/img/logo.png" alt="" />
+          <img src="./assets/img/logo.png" alt="" />
         </div>
       </div>
     </div>
