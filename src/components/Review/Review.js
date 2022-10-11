@@ -30,6 +30,7 @@ export const Review = () => (
 
         <p className="review__author">Faucibus Vitae, Office Assistant </p>
         <div className="review__log">
+          <img src="/assets/img/logo.png" alt="" />
         </div>
       </div>
     </div>
