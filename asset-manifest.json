@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/onepage/static/css/main.32858c51.css",
+    "main.js": "/onepage/static/js/main.113f12a6.js",
+    "static/media/android.svg": "/onepage/static/media/android.5616e66aab2e757e4650.svg",
+    "static/media/android_hover.svg": "/onepage/static/media/android_hover.ade976982ba0b35778f7.svg",
+    "static/media/sissors.svg": "/onepage/static/media/sissors.1f4675bc0984ae82dbdc.svg",
+    "static/media/sissors_hover.svg": "/onepage/static/media/sissors_hover.6863aad7a7b56ea7a0b5.svg",
+    "static/media/circle.svg": "/onepage/static/media/circle.3c273341ff0542384037.svg",
+    "static/media/circle_hover.svg": "/onepage/static/media/circle_hover.480c93469df15a80cd92.svg",
+    "index.html": "/onepage/index.html",
+    "static/media/checkmark.svg": "/onepage/static/media/checkmark.8b4cc197aae1d51d6891.svg",
+    "static/media/checkmark_hover.svg": "/onepage/static/media/checkmark_hover.97ea1392480a04a454e0.svg",
+    "static/media/arrow.svg": "/onepage/static/media/arrow.e1c2ae6dfe2aebcbab6a.svg",
+    "static/media/arrow_hover.svg": "/onepage/static/media/arrow_hover.f304f5252ebc20362b7a.svg",
+    "main.32858c51.css.map": "/onepage/static/css/main.32858c51.css.map",
+    "main.113f12a6.js.map": "/onepage/static/js/main.113f12a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32858c51.css",
+    "static/js/main.113f12a6.js"
+  ]
+}
