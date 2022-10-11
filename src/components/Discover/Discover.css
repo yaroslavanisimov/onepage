@@ -37,3 +37,11 @@
     height: 60px;
     justify-content: center;
 }
+
+.intro__btn:hover {
+    background-color: white;
+    border: 3px solid #29cc6a;
+    visibility: visible;
+    color:#29cc6a;
+    cursor: pointer;
+}

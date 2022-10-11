@@ -27,6 +27,13 @@
   padding: 10px 35px;
 }
 
+.btn-3:hover {
+  background-color: white;
+  visibility: visible;
+  color:#29cc6a;
+  cursor: pointer;
+}
+
 .form {
   display: flex;
   gap: 8px;

@@ -43,4 +43,15 @@
     align-items: center;
     color: white;
 }
+
+.header__btn {
+    background: #29cc6a;
+    width: 185px;
+    height: 35px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
   
