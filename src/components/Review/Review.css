@@ -1,0 +1,27 @@
+.review__row {
+    display: grid;
+    gap: 130px;
+    grid-template-columns: max-content max-content;
+    align-items: center;
+}
+
+.review__short {
+    padding: 60px 0 60px 40px;
+    font-weight: bold;
+    font-size: 28px;
+    color: #29cc6a;
+    border-left: 10px solid;
+}
+
+.review__description {
+    color: #2b2d26;
+    font-style: italic;
+}
+
+.quote {
+    display: flex;
+}
+
+.quote-end {
+    justify-content: flex-end;
+}

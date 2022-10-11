@@ -1,0 +1,110 @@
+.info {
+  display: grid;
+  gap: 24px;
+  margin-bottom: 24px;
+}
+
+.info__title {
+  margin: 0;
+  font-size: 40px;
+}
+
+.info__description {
+  margin: 0;
+}
+
+.service {
+  display: grid;
+  grid-template-rows: 1fr max-content;
+  width: 222.67px;
+  height: 175.58px;
+  box-shadow: 0px 2px 8px rgba(41, 55, 69, 0.15);
+  border-radius: 4px;
+  padding: 20px 10px;
+  cursor: pointer;
+  transition: all ease-in-out 0.5s;
+}
+
+.service:hover {
+  background-color: #29cc6a;
+}
+
+.service:hover .service-link__text {
+  visibility: visible;
+}
+
+.service:hover .ico-circle {
+  background-image: url(./circle_hover.svg);
+}
+
+.service:hover .ico-arrow {
+  background-image: url(./arrow_hover.svg);
+}
+
+.services__list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.service-link__text {
+  color: #fff;
+  text-decoration: underline;
+  visibility: hidden;
+}
+
+.service__body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.service-link {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.ico {
+  display: block;
+  width: 37px;
+  height: 44px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.ico-sm {
+  width: 16px;
+  height: 16px;
+}
+
+.ico-circle {
+  background-image: url(./circle.svg);
+}
+
+.ico-arrow {
+  background: url(./arrow.svg);
+}
+
+.ico-sissors {
+  background-image: url(./sissors.svg);
+}
+
+.ico-android {
+  background-image: url(./android.svg);
+}
+
+.ico-checkmark {
+  background-image: url(./checkmark.svg);
+}
+
+.service:hover .ico-sissors {
+  background-image: url(./sissors_hover.svg);
+}
+
+.service:hover .ico-android {
+  background-image: url(./android_hover.svg);
+}
+
+.service:hover .ico-checkmark {
+  background-image: url(./checkmark_hover.svg);
+}

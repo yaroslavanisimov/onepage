@@ -1,0 +1,68 @@
+.list {
+    display: grid;
+    gap: 24px;
+}
+
+.laciniarow__title {
+    text-align: center;
+}
+
+.item {
+    display: grid;
+    border-bottom: 1px solid #2b2d26;
+    grid-template-columns: 1fr max-content;
+    align-items: center;
+    padding-bottom: 24px;
+}
+
+.item__content {
+    display: grid;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.row__number {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2b2d26;
+    list-style: none;
+}
+
+.row__title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 36px;
+    color: #2b2d26;
+    list-style: none;
+}
+
+.row__description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2b2d26;
+    list-style: none;
+    padding-top: 24px;
+}
+
+.row__btn {
+    background-image: url("./plus.png");
+    width: 40px;
+    height: 40px;
+    position: relative;
+    border: none;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
+
+.row__btn.row-btn__minus {
+    background-image: url("./minus.png");
+}
+  

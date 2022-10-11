@@ -1,0 +1,46 @@
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header {
+    padding: 32px 0;
+}
+
+.header__wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-menu {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    margin: 0;
+}
+
+.header-title {
+    margin: 0;
+}
+
+.header-item a {
+    color: #787a7c;
+    text-decoration: none;
+}
+
+.header-active a {
+    color: #2b2d26;
+    text-decoration: underline;
+}
+  
+.header__btn {
+    background: #29cc6a;
+    width: 185px;
+    height: 35px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+  

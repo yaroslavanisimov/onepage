@@ -1,0 +1,39 @@
+.row {
+    display: flex;
+    align-items: center;
+    gap: 65px;
+}
+
+.col {
+    display: block;
+}
+
+.intro {
+    display: grid;
+}
+
+.intro-header {
+    display: flex;
+}
+
+.intro__title {
+    font-weight: bold;
+    font-size: 48px;
+    color: #2b2d26;
+    margin: 0 0 16px 0;
+}
+
+.word {
+    color: #29cc6a;
+}
+
+.intro__btn {
+    background: #29cc6a;
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    border: none;
+    width: 218px;
+    height: 60px;
+    justify-content: center;
+}
