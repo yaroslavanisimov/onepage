@@ -30,3 +30,5 @@ export const Discover = () => (
     </div>
   </div>
 );
+
+console.log("bla")
