@@ -31,4 +31,4 @@ export const Discover = () => (
   </div>
 );
 
-console.log("bla")
+console.log("123")
